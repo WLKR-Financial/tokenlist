@@ -1,6 +1,6 @@
 {
   "name": "Set (Optimism)",
-  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/set-logo.svg",
   "keywords": ["set", "tokensets", "defi", "optimism"],
   "timestamp": "2020-11-19T12:32:17.000+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "SOLUNAVAX Index",
       "symbol": "SOLUNAVAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/solunavax.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/solunavax.png"
     },
     {
       "chainId": 10,
@@ -18,7 +18,7 @@
       "name": "SOL 1X",
       "symbol": "SOL1X",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sol1x.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/sol1x.png"
     },
     {
       "chainId": 10,
@@ -26,7 +26,7 @@
       "name": "LUNA 1X",
       "symbol": "LUNA1X",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/luna1x.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/luna1x.png"
     },
     {
       "chainId": 10,
@@ -34,7 +34,7 @@
       "name": "AVAX 1X",
       "symbol": "AVAX1X",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/avax1x.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/avax1x.png"
     },
     {
       "chainId": 10,
@@ -42,7 +42,7 @@
       "name": "Optimistic Crypto Kai Index",
       "symbol": "OKAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/opck.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/opck.png"
     },
     {
       "chainId": 10,
@@ -50,7 +50,7 @@
       "name": "Bobo Safe Haven",
       "symbol": "BOBO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/permabear.png"
     },
     {
       "chainId": 10,
@@ -58,7 +58,7 @@
       "name": "MoonQuant Fixed Income Proxy Set",
       "symbol": "MQFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfi.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/mqfi.png"
     },
     {
       "chainId": 10,
@@ -66,7 +66,7 @@
       "name": "MoonQuant MainCrypto TrendBlazer",
       "symbol": "MQMC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqmc.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/mqmc.png"
     },
     {
       "chainId": 10,
@@ -74,7 +74,7 @@
       "name": "MoonQuant ETH TrendBlazer",
       "symbol": "MQE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqe.png"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/mqe.png"
     }
   ]
 }
