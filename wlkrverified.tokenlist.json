@@ -6,14 +6,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-      "name": "DeFi Pulse Index",
-      "symbol": "DPI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/dpi.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
       "name": "WLKR Crypto Innovation Index",
       "symbol": "WLKR",
