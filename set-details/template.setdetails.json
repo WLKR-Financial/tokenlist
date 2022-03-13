@@ -4,10 +4,10 @@
     "setName": "",
     "setSymbol": "",
     "setDecimals": 18,
-    "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setIcon": "",               // https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/asset_name.png
     "setDescription": "",
     "managerName": "",
-    "managerIcon": "",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerIcon": "",           // https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/managers/manager_name.png
     "managerDescription": ""
   },
   "version": 1

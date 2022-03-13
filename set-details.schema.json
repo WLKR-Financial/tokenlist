@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/SetProtocol/uniswap-tokenlist/blob/main/set-details.schema.json",
+  "$id": "https://github.com/WLKR-Finance/tokenlist/blob/main/set-details.schema.json",
   "title": "Set Details Description",
   "description": "Schema for details of Sets compatible with the TokenSets Interface",
   "definitions": {
@@ -61,7 +61,7 @@
           "description": "Website for users to get more information about manager or the set",
           "format": "uri",
           "examples": [
-            "https://www.defipulse.com"
+            "https://www.walkrfinance.com"
           ]
         },
         "setDescription": {
