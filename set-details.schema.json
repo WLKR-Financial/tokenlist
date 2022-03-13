@@ -1,12 +1,12 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/WLKR-Finance/tokenlist/blob/main/set-details.schema.json",
-  "title": "Set Details Description",
-  "description": "Schema for details of Sets compatible with the TokenSets Interface",
+  "title": "Verified Index's Details Description",
+  "description": "Schema for details of Verified index's compatible with the Walker Index Interface",
   "definitions": {
     "SetDetails": {
       "type": "object",
-      "description": "Metadata for a given Set details",
+      "description": "Metadata for a given Index details",
       "additionalProperties": false,
       "properties": {
         "chainId": {
