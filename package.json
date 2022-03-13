@@ -1,9 +1,9 @@
 {
-  "name": "@uniswap/token-lists",
+  "name": "@walker/token-lists",
   "author": {
-    "name": "Uniswap Labs",
-    "email": "contact@uniswap.org",
-    "url": "https://uniswap.org"
+    "name": "Walker Financial",
+    "email": "contact@walkrfinance.com",
+    "url": "https://walkrfinance.com"
   },
   "description": "📚 The Token Lists specification",
   "version": "1.0.0-beta.27",
