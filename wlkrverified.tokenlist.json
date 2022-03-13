@@ -10,7 +10,7 @@
       "name": "Candle",
       "symbol": "CNDL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/cndl.svg"
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/candlelogo.png"
     },
     {
       "chainId": 1,
