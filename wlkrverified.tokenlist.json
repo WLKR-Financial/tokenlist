@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+      "name": "Candle",
+      "symbol": "CNDL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/cndl.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
       "name": "WLKR Crypto Innovation Index",
       "symbol": "WLKR",
