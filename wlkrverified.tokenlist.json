@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+      "address": "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432",
       "name": "Candle",
       "symbol": "CNDL",
       "decimals": 18,
@@ -19,11 +19,35 @@
       "symbol": "WLKR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/wlkrlogo.png"
+    },
+    {
+      "chainId": 534,
+      "address": "0xad43669cbAC863e33449d423261E525de8da0Ff4",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/dailogo.png"
+    },
+    {
+      "chainId": 534,
+      "address": "0xb750990F953B36F806d0327678eCFB4eEFd16979",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/wethlogo.png"
+    },
+    {
+      "chainId": 534,
+      "address": "0x85FA00f55492B0437b3925381fAaf0E024747627",
+      "name": "Wrapped Candle",
+      "symbol": "WCNDL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/candlelogo.png"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
