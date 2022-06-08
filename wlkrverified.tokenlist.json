@@ -1,25 +1,9 @@
 {
-  "name": "Walker Verified",
+  "name": "Walker Verified On Candle",
   "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/wlkr-logo.svg",
   "keywords": ["asset-manager", "index", "defi","Indexed-Tokens"],
   "timestamp": "2022-03-12T12:32:17.000+00:00",
   "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432",
-      "name": "Candle",
-      "symbol": "CNDL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/candlelogo.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
-      "name": "WLKR Crypto Innovation Index",
-      "symbol": "WLKR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/wlkrlogo.png"
-    },
     {
       "chainId": 534,
       "address": "0xad43669cbAC863e33449d423261E525de8da0Ff4",
