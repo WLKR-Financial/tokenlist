@@ -22,6 +22,14 @@
     },
     {
       "chainId": 534,
+      "address": "0x95A0A7953F9292838C0614D690005D5c716E718E",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WLKR-Financial/tokenlist/main/assets/tokens/ethlogo.png"
+    },
+    {
+      "chainId": 534,
       "address": "0x85FA00f55492B0437b3925381fAaf0E024747627",
       "name": "Wrapped Candle",
       "symbol": "WCNDL",
